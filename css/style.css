@@ -9,6 +9,10 @@ h1{
   text-align: center;
   text-decoration-line: overline;
 }
+body{
+  background-image: url(../images/background.jpg);
+  background-size: cover;
+}
 
 img{
 	width: 250px;
