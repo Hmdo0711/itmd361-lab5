@@ -17,8 +17,8 @@ body{
 }
 
 img{
-	width: 250px;
-	height: 250px;
+  width: 250px;
+  height: 250px;
 }
 
 th {
@@ -42,13 +42,13 @@ td{
 }
 
 .column_title{
-text-align: left;
-color: rgb(235, 237, 247);
-font-weight: bold
+  text-align: left;
+  color: rgb(235, 237, 247);
+  font-weight: bold
 }
 
 .column{
-background-color: rgb(166, 84, 25);
+  background-color: rgb(166, 84, 25);
 }
 
  
