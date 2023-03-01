@@ -1,3 +1,14 @@
+h1{
+  width: 30%;  
+  padding: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Georgia, serif;
+  font-size: 3em;
+  font-weight: bold; 
+  text-align: center;
+}
+
 td, th {
   padding: 15px;
   background-color: rgba(255, 255, 255, 0.2);
