@@ -44,6 +44,11 @@ td{
 .column_title{
 text-align: left;
 color: rgb(235, 237, 247);
+font-weight: bold
+}
+
+.column{
+background-color: rgb(166, 84, 25);
 }
 
  
